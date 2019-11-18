@@ -1,4 +1,4 @@
-# Employee Exit Survey Analysis
+## Employee Exit Survey Analysis
 This is a project carried out during my Data Analysis course on DataQuest
 
 In this project, I worked with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
